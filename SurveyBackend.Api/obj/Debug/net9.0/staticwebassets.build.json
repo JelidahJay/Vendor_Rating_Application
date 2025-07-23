@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YzaV7Y0ZpdMETNa92dt+QfA11k8As9k5MCXUddBM8qI=",
+  "Source": "SurveyBackend.Api",
+  "BasePath": "_content/SurveyBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

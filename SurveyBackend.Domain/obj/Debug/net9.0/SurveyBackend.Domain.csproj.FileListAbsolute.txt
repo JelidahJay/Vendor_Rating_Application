@@ -1,0 +1,15 @@
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/bin/Debug/net9.0/SurveyBackend.Domain.deps.json
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/bin/Debug/net9.0/SurveyBackend.Domain.dll
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/bin/Debug/net9.0/SurveyBackend.Domain.pdb
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/bin/Debug/net9.0/SurveyBackend.Utilities.dll
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/bin/Debug/net9.0/SurveyBackend.Utilities.pdb
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.csproj.AssemblyReference.cache
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.AssemblyInfoInputs.cache
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.AssemblyInfo.cs
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.csproj.CoreCompileInputs.cache
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBa.BDCCF668.Up2Date
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.dll
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/refint/SurveyBackend.Domain.dll
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/SurveyBackend.Domain.pdb
+/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Domain/obj/Debug/net9.0/ref/SurveyBackend.Domain.dll

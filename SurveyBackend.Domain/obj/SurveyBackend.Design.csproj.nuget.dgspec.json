@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Design/SurveyBackend.Design.csproj": {}
+  },
+  "projects": {
+    "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Design/SurveyBackend.Design.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Design/SurveyBackend.Design.csproj",
+        "projectName": "SurveyBackend.Design",
+        "projectPath": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Design/SurveyBackend.Design.csproj",
+        "packagesPath": "/Users/jelidahnayingwa/.nuget/packages/",
+        "outputPath": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Design/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jelidahnayingwa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/SurveyBackend.Utilities.csproj": {
+                "projectPath": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/SurveyBackend.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jelidahnayingwa/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/SurveyBackend.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/SurveyBackend.Utilities.csproj",
+        "projectName": "SurveyBackend.Utilities",
+        "projectPath": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/SurveyBackend.Utilities.csproj",
+        "packagesPath": "/Users/jelidahnayingwa/.nuget/packages/",
+        "outputPath": "/Users/jelidahnayingwa/RiderProjects/SurveyBackend/SurveyBackend.Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jelidahnayingwa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jelidahnayingwa/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
